@@ -1,0 +1,6 @@
+{
+	"APP_PROTOCOL": "quanhu",
+	"APP_HOST": "open",
+	"REQUEST_URL_PREFIX": "/openapi",
+	"DOWNLOAD_APP_URL": "//static.yryz.com/quanhu/download/2.0/index_xz.html"
+}

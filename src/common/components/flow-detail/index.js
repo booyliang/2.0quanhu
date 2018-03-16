@@ -1,0 +1,1 @@
+export { default } from './src/flow-detail.vue'
